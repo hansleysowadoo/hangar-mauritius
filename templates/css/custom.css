@@ -178,6 +178,7 @@ section.margin-top {
 .hs-cookie-accept:hover {
     background-color: #d8d8d8;
     color: #e30513;
+    cursor: pointer;
 }
 
 .hs-cookies-disclaimer .hs-cookie-readmore {
